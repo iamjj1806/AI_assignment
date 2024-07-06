@@ -1,0 +1,96 @@
+
+green enter in 9 at quadrant 2
+
+green out at 12 at quadrant 2
+
+orange enter in 5 at quadrant 1
+
+orange out at 23 at quadrant 1
+
+green enter in 16 at quadrant 2
+
+green out at 28 at quadrant 2
+
+green enter in 29 at quadrant 2
+
+green out at 39 at quadrant 2
+
+orange enter in 23 at quadrant 2
+
+orange out at 45 at quadrant 2
+
+green enter in 40 at quadrant 3
+
+green out at 57 at quadrant 3
+
+yellow enter in 4 at quadrant 3
+
+yellow out at 58 at quadrant 3
+
+orange enter in 46 at quadrant 2
+
+orange out at 78 at quadrant 2
+
+yellow enter in 63 at quadrant 4
+
+yellow out at 91 at quadrant 4
+
+yellow enter in 91 at quadrant 3
+
+yellow out at 98 at quadrant 3
+
+green enter in 57 at quadrant 2
+
+green out at 112 at quadrant 2
+
+green enter in 115 at quadrant 4
+
+green out at 119 at quadrant 4
+
+yellow enter in 98 at quadrant 1
+
+yellow out at 137 at quadrant 1
+
+green enter in 128 at quadrant 3
+
+green out at 141 at quadrant 3
+
+green enter in 142 at quadrant 2
+
+green out at 151 at quadrant 2
+
+orange enter in 107 at quadrant 4
+
+orange out at 155 at quadrant 4
+
+green enter in 152 at quadrant 2
+
+green out at 178 at quadrant 2
+
+orange enter in 155 at quadrant 1
+
+orange out at 185 at quadrant 1
+
+yellow enter in 137 at quadrant None
+
+yellow out at 186 at quadrant None
+
+yellow enter in 186 at quadrant 4
+
+yellow out at 191 at quadrant 4
+
+orange enter in 185 at quadrant 1
+
+orange out at 193 at quadrant 1
+
+green enter in 196 at quadrant 4
+
+green out at 201 at quadrant 4
+
+yellow enter in 191 at quadrant None
+
+yellow out at 201 at quadrant None
+
+orange enter in 194 at quadrant 1
+
+orange out at 206 at quadrant 1
